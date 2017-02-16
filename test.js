@@ -4,3 +4,4 @@ var sum = a +ｂ;
 var c = a * b;
 console.log(c);
 console.log(sum);
+var e = 4;
