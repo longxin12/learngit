@@ -5,3 +5,4 @@ var c = a * b;
 var d = a / b;
 console.log(c);
 console.log(sum);
+var f = 5;
